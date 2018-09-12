@@ -1,0 +1,23 @@
+body {  
+	background-image: 
+    background-size: cover;
+
+}
+
+
+
+h1 {
+	text-align: center;
+	text-transform: uppercase;
+	font-size: 3.75rem;
+	color: blue;
+	letter-spacing: 2px 
+	line-height: .8;
+	font-family; "alegrey sans" 
+ 
+}
+
+h2 { 
+font-family: "Alegrey Sans", sans-serif; 
+font-size: 20rem;
+}
